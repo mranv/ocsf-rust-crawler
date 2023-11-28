@@ -2,7 +2,7 @@
 
 # OCSF Rust Crawler
 
-This Rust application fetches JSON data from a specified URL ( The url is taken from the OCSF Schema Server docker image. ) and saves it to a file every second.
+This Rust application fetches JSON data from a specified URL ( The url is taken after running the OCSF Schema Server docker image. ) and saves it to a file every second.
 
 ## Usage
 
