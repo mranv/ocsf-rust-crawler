@@ -1,0 +1,95 @@
+{
+  "activity_id": 3,
+  "activity_name": "Password Change",
+  "category_name": "Identity & Access Management",
+  "category_uid": 3,
+  "class_name": "Account Change",
+  "class_uid": 3001,
+  "duration": 47,
+  "end_time": 1701157174056833,
+  "message": "broadcasting original elvis",
+  "metadata": {
+    "event_code": "cup",
+    "log_provider": "leo ballot quad",
+    "logged_time": 1701157174057043,
+    "modified_time": 1701157174057045,
+    "original_time": "tremendous sorry destroyed",
+    "product": {
+      "feature": {
+        "name": "parameter distinction journal",
+        "version": "1.1.0-dev"
+      },
+      "lang": "en",
+      "name": "server requiring tft",
+      "uid": "462c319a-8dc1-11ee-a40f-e6676b87c8d6",
+      "vendor_name": "aurora related act",
+      "version": "1.1.0-dev"
+    },
+    "profiles": [],
+    "tenant_uid": "462c36fe-8dc1-11ee-985c-e6676b87c8d6",
+    "version": "1.1.0-dev"
+  },
+  "severity": "Medium",
+  "severity_id": 3,
+  "src_endpoint": {
+    "domain": "preparing london approved",
+    "hostname": "thereby.org",
+    "instance_uid": "462c0cb0-8dc1-11ee-a654-e6676b87c8d6",
+    "interface_name": "satisfied academic kidney",
+    "interface_uid": "462c1084-8dc1-11ee-acf9-e6676b87c8d6",
+    "ip": "220.33.126.112",
+    "name": "roger score engine",
+    "port": 55272,
+    "svc_name": "tablets what feof",
+    "type": "Laptop",
+    "type_id": 3,
+    "uid": "462c07b0-8dc1-11ee-b080-e6676b87c8d6"
+  },
+  "status": "Success",
+  "status_detail": "casey findings maintained",
+  "status_id": 1,
+  "time": 1701157174057147,
+  "timezone_offset": 60,
+  "type_name": "Account Change: Password Change",
+  "type_uid": 300103,
+  "user": {
+    "domain": "hunger cups inherited",
+    "ldap_person": {
+      "employee_uid": "462c293e-8dc1-11ee-9fb1-e6676b87c8d6",
+      "job_title": "concord verizon met",
+      "last_login_time": 1701157174056799,
+      "ldap_cn": "medical critics bay",
+      "ldap_dn": "guest spread recorders",
+      "location": {
+        "city": "Fm objectives",
+        "continent": "Europe",
+        "coordinates": [
+          -106.8259,
+          60.2576
+        ],
+        "country": "TR",
+        "desc": "Turkey, Republic of"
+      },
+      "manager": {
+        "account": {
+          "name": "transmit clusters terminal",
+          "type": "AWS IAM Role",
+          "type_id": 4,
+          "uid": "462c24b6-8dc1-11ee-9c53-e6676b87c8d6"
+        },
+        "name": "Irish",
+        "type": "characteristic",
+        "type_id": 99
+      }
+    },
+    "name": "Heat",
+    "type": "Admin",
+    "type_id": 2,
+    "uid": "462c1a16-8dc1-11ee-82c9-e6676b87c8d6"
+  }
+}
+ 
+ 
+ 
+ 
+
